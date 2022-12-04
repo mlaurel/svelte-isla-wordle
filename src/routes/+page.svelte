@@ -18,12 +18,8 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app
+		to Isla's new <br />Wordle Game
 	</h1>
-
-	<h2>
-		try editing <strong>src/routes/+page.svelte</strong>
-	</h2>
 
 	<Counter />
 </section>
